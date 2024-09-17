@@ -1,0 +1,19 @@
+
+
+main{
+display: flex;
+border: 1px solid black;
+height: 500px;
+justify-content: center;
+align-items: center;
+margin: 300px;
+
+}
+aside{
+    width: 200px;
+    height: 200px;
+    background-color: #f30303;
+    border-radius: 100%;
+
+
+}
